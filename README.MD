@@ -1,4 +1,4 @@
-A* PathFinding Algorithm with a Visualizer
+# A* PathFinding Algorithm with a Visualizer
 
 Developed by Shahrukh Qureshi
 Website: https://www.squreshi.net/
